@@ -1,0 +1,16 @@
+{
+  "name": "04-json-http-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon jsonApi.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.6.7",
+    "nodemon": "^2.0.20"
+  }
+}

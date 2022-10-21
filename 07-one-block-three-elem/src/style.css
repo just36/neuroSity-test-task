@@ -1,0 +1,21 @@
+.text-container {
+  padding: 30px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.text {
+  width: 100px;
+  max-height: 50px;
+  transition: all 1s;
+  overflow: hidden;
+}
+
+.text-more {
+  max-height: 350px;
+}
+
+.btn {
+  display: block;
+  margin: 0 auto;
+}
